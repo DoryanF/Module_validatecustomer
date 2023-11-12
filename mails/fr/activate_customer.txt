@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Bonjour,
+
+Un nouveau client à créé un compte le {date}
+
+Détails du client
+
+Nom: {firstname} {lastname}
+
+Email: ({email})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)
